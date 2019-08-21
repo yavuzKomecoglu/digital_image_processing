@@ -2,4 +2,5 @@
 numpy
 matplotlib
 Pillow
+scikit-image
 ipywidgets
